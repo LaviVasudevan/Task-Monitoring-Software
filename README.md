@@ -7,16 +7,16 @@ The Task Management Software (TMS) is a Java-based application utilizing MySQL a
 ## Installation
 
 ### Dependencies
-JRE System Library [jdk-21]
-MySQL Connector: com.mysql.jdbc.jar
-JFreeChart: jfreechart-1.5.4.jar
-MigLayout: miglayout15-swing.jar
+- JRE System Library [jdk-21]
+- MySQL Connector: com.mysql.jdbc.jar
+- JFreeChart: jfreechart-1.5.4.jar
+- MigLayout: miglayout15-swing.jar
 
 ### SetUp
 
-Execute SQL Script: Run sql.txt in a MySQL platform to set up the database.
-Compile Java Files: Compile the Java files using JDK.
-Run Application: Execute the compiled Java application.
+- Execute SQL Script: Run sql.txt in a MySQL platform to set up the database.
+- Compile Java Files: Compile the Java files using JDK.
+- Run Application: Execute the compiled Java application.
 
 ## Features
 
